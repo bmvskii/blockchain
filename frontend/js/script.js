@@ -121,7 +121,6 @@ window.onload = () => {
         }
     });
 
-
     //a logic of a modal window
     modalTriggerButtons.forEach(mtb => {
         mtb.addEventListener('click', () => {
